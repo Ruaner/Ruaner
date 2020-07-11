@@ -5,5 +5,5 @@
 - 🔭 Currently research about Recommender System & CTR prediction.
 - ⚡ Python / PyTorch.
 - 📫 Email me at: qianoo@outlook.com
-- 🍰 This is my personal website: Https://corapu.com, welcome to visit!
+- 🍰 This is my personal website: https://corapu.com, welcome to visit!
 
